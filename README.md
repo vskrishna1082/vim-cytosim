@@ -1,6 +1,7 @@
 ## vim-cytosim
 
-Vim syntax highlighting for cytosim (`*.cym`) and cytosim preconfig (`*.cym.tpl`) files.
+Vim syntax highlighting and indentation for cytosim (`*.cym`) and cytosim 
+preconfig (`*.cym.tpl`) files.
 
 ### Installation
 
