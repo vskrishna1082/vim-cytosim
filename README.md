@@ -1,6 +1,6 @@
 ## vim-cytosim
 
-Vim syntax highlighting and indentation for cytosim (`*.cym`) and cytosim 
+Vim/Neovim syntax highlighting and indentation for cytosim (`*.cym`) and cytosim
 preconfig (`*.cym.tpl`) files.
 
 ### Installation
@@ -15,6 +15,14 @@ Plug 'vskrishna1082/vim-cytosim'
 
 ```
 Plugin 'vskrishna1082/vim-cytosim'
+```
+
+- lazy.nvim
+
+```
+{
+	'vskrishna1082/vim-cytosim'
+}
 ```
 
 ### Screenshots
