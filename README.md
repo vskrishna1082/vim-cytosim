@@ -7,19 +7,19 @@ preconfig (`*.cym.tpl`) files.
 
 - vim-plug
 
-```
+```vim
 Plug 'vskrishna1082/vim-cytosim'
 ```
 
 - vundle
 
-```
+```vim
 Plugin 'vskrishna1082/vim-cytosim'
 ```
 
 - lazy.nvim
 
-```
+```lua
 {
 	'vskrishna1082/vim-cytosim'
 }
